@@ -10,6 +10,7 @@ h1 {
 
 aside {
     width: 30%;
+    padding-top: 15px;
     padding-left: 15px;
     margin-left: 15px;
     float: right;
@@ -20,3 +21,6 @@ aside {
 footer {
     background-color: grey;
 }
+
+#slides {margin-bottom:10px;}
+#tourDates {margin-top: 10px;}
